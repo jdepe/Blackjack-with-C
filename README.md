@@ -1,4 +1,7 @@
 # Blackjack-on-TinkerCAD using C
+
+https://www.tinkercad.com/things/7GapfDzjE3K-cab202-assignment/editel?sharecode=tnRGU63bKEYeDIwvsyNXQwWHXqGGJ7Bhwtcd_dHeBM4
+
 C project on Arduino Uno 
 Simplified version of Blackjack where players:
 	- only have up to 4 cards
