@@ -1,2 +1,2 @@
-# Blackjack-for-Arduino
+# Blackjack-on-TinkerCAD using C
 C project on Arduino Uno 
